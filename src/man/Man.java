@@ -14,6 +14,7 @@ public class Man {
         cc.transfer(100, cp);
         System.out.println(cc);
         System.out.println(cp);
+        System.out.println();
 	}
 
 }
